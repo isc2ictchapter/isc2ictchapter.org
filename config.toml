@@ -25,8 +25,8 @@ theme = 'hugo-universal-theme'
     url     = '/events'
     weight  = 5
 [[menu.main]]
-    name    = 'Contact Us'
-    url     = '/contact'
+    name    = 'Mailing List'
+    url     = '/mailinglist'
     weight  = 6
 
 [params]
@@ -48,7 +48,7 @@ theme = 'hugo-universal-theme'
 [[menu.topbar]]
     weight = 2
     name = "Email"
-    url = "mailto:hello@universal.com"
+    url = "mailto:president@isc2ictchapter.org"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params.carouselHomepage]
