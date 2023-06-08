@@ -1,0 +1,53 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = '(ISC)&sup2; ICT Chapter'
+style = "default"
+theme = 'hugo-universal-theme'
+[params]
+    disabled_logo   = false
+    logo_text       = '(ISC)2 Logo'
+    logo            = 'img/logo.png'
+    author          = 'Matt Alliman'
+[menu]
+[[menu.main]]
+    name    = "Home"
+    url     = "/"
+    weight  = 1
+[[menu.main]]
+    name    = "About Us"
+    url     = "/aboutus"
+    weight  = 2
+[[menu.main]]
+    name    = 'About (ISC)²'
+    url     = 'https://www.isc2.org'
+    weight  = 3
+[[menu.main]]
+    name    = 'Join Us'
+    url     = '/join'
+    weight  = 4
+[[menu.main]]
+    name    = 'Events'
+    url     = '/events'
+    weight  = 5
+[[menu.main]]
+    name    = 'Contact Us'
+    url     = '/contact'
+    weight  = 6
+[params.topbar]
+    enable = true
+[[menu.topbar]]
+    weight  = 1
+    name    = 'LinkedIn'
+    url     = 'https://www.linkedin.com/in/isc-2-wichita-chapter-4a4546148'
+    pre     = '<i class="fab fa-2x fa-linkedin"></i>'
+[[menu.topbar]]
+    weight = 2
+    name = "Email"
+    url = "mailto:hello@universal.com"
+    pre = "<i class='fas fa-2x fa-envelope'></i>"
+[params.features]
+    enable = true
+    cols = 4 # Default: 3, Available values 2,3,4,6
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more information take a look at the README.
