@@ -1,6 +1,6 @@
 baseURL = 'https://isc2ictchapter-org.pages.dev/'
 languageCode = 'en-us'
-title = '(ISC)²; ICT Chapter'
+title = '(ISC)² ICT Chapter'
 style = "default"
 theme = 'hugo-universal-theme'
 [params]
