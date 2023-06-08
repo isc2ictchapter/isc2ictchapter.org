@@ -1,2 +1,1 @@
-Events
 {{< calendar >}}
