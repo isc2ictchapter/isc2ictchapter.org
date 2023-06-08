@@ -54,6 +54,6 @@ theme = 'hugo-universal-theme'
     # For more information take a look at the README.
 [params.see_more]
     enable = true
-    icon = far fa-file-alt
+    icon = 'far fa-file-alt'
     title = "signup"
     link_url = "http://eepurl.com/g3yR11"
