@@ -34,11 +34,6 @@
                             {{ end }}
                             <h3>{{ $element.name | markdownify }}</h3>
                             <p>{{ $element.description | markdownify }}</p>
-                            <ul>
-                                {{range $element.List}}
-                                <li>{{ . }}</li>
-                                {{ end }}
-                            </ul>
                         </div>
                     </div>
                 {{ end }}
