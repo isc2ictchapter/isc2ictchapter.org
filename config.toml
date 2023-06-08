@@ -36,9 +36,6 @@ theme = 'hugo-universal-theme'
     logo_small      = 'img/logo-small.png'
     author          = 'Matt Alliman'
     style           = 'green'
-    about_us        = 'this is a test'
-    copyright       = 'copyleft 2023'
-
 
 [params.topbar]
     enable = true
