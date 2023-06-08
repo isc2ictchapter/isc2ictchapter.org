@@ -7,7 +7,7 @@ theme = 'hugo-universal-theme'
     disabled_logo   = false
     logo_text       = '(ISC)2 Logo'
     logo            = 'img/logo.png'
-    logo_small      = "img/logo-small.png'
+    logo_small      = 'img/logo-small.png'
     author          = 'Matt Alliman'
 [menu]
 [[menu.main]]
