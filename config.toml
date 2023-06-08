@@ -46,14 +46,14 @@ theme = 'hugo-universal-theme'
     name = "Email"
     url = "mailto:hello@universal.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
+[params.carouselHomepage]
+    enable = true
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
 [params.features]
     enable = true
     cols = 4 # Default: 3, Available values 2,3,4,6
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
-[params.see_more]
-    enable = true
-    icon = 'far fa-file-alt'
-    title = "signup"
-    link_url = "http://eepurl.com/g3yR11"
