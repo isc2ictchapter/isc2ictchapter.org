@@ -1,14 +1,8 @@
 baseURL = 'https://isc2ictchapter-org.pages.dev/'
 languageCode = 'en-us'
 title = '(ISC)² ICT Chapter'
-style = "green"
 theme = 'hugo-universal-theme'
-[params]
-    disabled_logo   = false
-    logo_text       = '(ISC)2 Logo'
-    logo            = 'img/logo.png'
-    logo_small      = 'img/logo-small.png'
-    author          = 'Matt Alliman'
+
 [menu]
 [[menu.main]]
     name    = "Home"
@@ -34,8 +28,21 @@ theme = 'hugo-universal-theme'
     name    = 'Contact Us'
     url     = '/contact'
     weight  = 6
+
+[params]
+    disabled_logo   = false
+    logo_text       = '(ISC)2 Logo'
+    logo            = 'img/logo.png'
+    logo_small      = 'img/logo-small.png'
+    author          = 'Matt Alliman'
+    style           = 'green'
+    about_us        = 'this is a test'
+    copyright       = 'copyleft 2023'
+
+
 [params.topbar]
     enable = true
+
 [[menu.topbar]]
     weight  = 1
     name    = 'LinkedIn'
@@ -46,6 +53,12 @@ theme = 'hugo-universal-theme'
     name = "Email"
     url = "mailto:hello@universal.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
+
+[params.carouselHomepage]
+    enable = true
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
 
 [params.features]
     enable = true
