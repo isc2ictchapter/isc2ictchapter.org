@@ -1,1 +1,1 @@
-{{< calendar >}}
+Events{{< calendar >}}
