@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://isc2ictchapter-org.pages.dev/'
 languageCode = 'en-us'
-title = '(ISC)&sup2; ICT Chapter'
+title = '(ISC)²; ICT Chapter'
 style = "default"
 theme = 'hugo-universal-theme'
 [params]
