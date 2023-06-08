@@ -46,11 +46,7 @@ theme = 'hugo-universal-theme'
     name = "Email"
     url = "mailto:hello@universal.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
-[params.carouselHomepage]
-    enable = true
-    auto_play = true
-    slide_speed = 2000
-    pagination_speed = 1000
+
 [params.features]
     enable = true
     cols = 4 # Default: 3, Available values 2,3,4,6
