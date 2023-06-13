@@ -29,18 +29,6 @@ theme = 'hugo-universal-theme'
     url     = '/mailinglist'
     weight  = 6
 
-[params]
-    disabled_logo   = false
-    logo_text       = '(ISC)2 Logo'
-    logo            = 'img/logo.png'
-    logo_small      = 'img/logo-small.png'
-    author          = 'Matt Alliman'
-    style           = 'green'
-    copyright        = 'Generated with <a href="https://hugo.io">Hugo</a> from <a href="https://github.com/isc2ictchapter/isc2ictchapter.org">GitHub</a>'
-
-[params.topbar]
-    enable = true
-
 [[menu.topbar]]
     weight  = 1
     name    = 'LinkedIn'
@@ -52,13 +40,25 @@ theme = 'hugo-universal-theme'
     url = "mailto:president@isc2ictchapter.org"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
-[params.carouselHomepage]
+[params]
+    disabled_logo   = false
+    logo_text       = '(ISC)2 Logo'
+    logo            = 'img/logo.png'
+    logo_small      = 'img/logo-small.png'
+    author          = 'Matt Alliman'
+    style           = 'green'
+    copyright        = 'Generated with <a href="https://hugo.io">Hugo</a> from <a href="https://github.com/isc2ictchapter/isc2ictchapter.org">GitHub</a>'
+
+[[params.topbar]]
+    enable = true
+
+[[params.carouselHomepage]]
     enable = true
     auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
 
-[params.features]
+[[params.features]]
     enable = true
     cols = 4 # Default: 3, Available values 2,3,4,6
     # All features are defined in their own files. You can find example items
