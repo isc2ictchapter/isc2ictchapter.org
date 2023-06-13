@@ -3,12 +3,10 @@ name: "Connect"
 icon: "fas fa-globe-americas fa-lg"
 url: ""
 description: >
-    <l>
-    <li>Professional Networking</li>
-    <li>Career Development</li>
-    <li>Job Connections</li>
-    <li>Knowledge Exchange</li>
-    <li>Joint Opportunities</li>
-    <li>Social Outings</li>
-    <li>Fellowship</li>
-    </l>
+    - Professional Networking
+    - Career Development
+    - Job Connections
+    - Knowledge Exchange
+    - Joint Opportunities
+    - Social Outings
+    - Fellowship
