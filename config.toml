@@ -49,16 +49,16 @@ theme = 'hugo-universal-theme'
     style           = 'green'
     copyright        = 'Generated with <a href="https://hugo.io">Hugo</a> from <a href="https://github.com/isc2ictchapter/isc2ictchapter.org">GitHub</a>'
 
-[[params.topbar]]
+[params.topbar]
     enable = true
 
-[[params.carouselHomepage]]
+[params.carouselHomepage]
     enable = true
     auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
 
-[[params.features]]
+[params.features]
     enable = true
     cols = 4 # Default: 3, Available values 2,3,4,6
     # All features are defined in their own files. You can find example items
