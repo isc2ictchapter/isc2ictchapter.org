@@ -2,7 +2,9 @@ weight: 4
 name: "Secure"
 icon: "fas fa-lock"
 url: ""
-List:
-  - Teaching Others to be Safe Online (children and seniors)
-  - Form Partnerships with Public and Private Sector
-  - Collaborate on Cybersecurity Awareness Projects
+description: >
+  <l>
+  <li>Teaching Others to be Safe Online (children and seniors)</li>
+  <li>Form Partnerships with Public and Private Sector</li>
+  <li>Collaborate on Cybersecurity Awareness Projects</li>
+  </l>

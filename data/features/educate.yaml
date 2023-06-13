@@ -2,9 +2,11 @@ weight: 1
 name: "Educate"
 icon: "fas fa-book-reader"
 url: ""
-List:
-  - Industry Expert Presentations
-  - Study Groups
-  - Seminars/Workshops
-  - Curriculum Development
-  - Continuing Professional Education (CPEs)
+description: >
+  <l>
+  <li>Industry Expert Presentations</li>
+  <li>Study Groups</li>
+  <li>Seminars/Workshops</li>
+  <li>Curriculum Development</li>
+  <li>Continuing Professional Education (CPEs)</li>
+  </l>
