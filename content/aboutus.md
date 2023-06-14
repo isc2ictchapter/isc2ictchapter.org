@@ -11,5 +11,6 @@ To become a trusted resource for security education and awareness in the South C
 President - Jobar Dsdfs (2020 - Current)
 : Jobar has Lorem Ipsum Dolar
 
+
 Vice President - Brakedas Djeslbs (2019 - Current)
 : Brakedas has Lorem Ipsum Dolar
