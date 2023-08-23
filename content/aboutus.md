@@ -1,5 +1,4 @@
 ## History
-
 Our chapter was officially accepted as a local (ISC)² Chapter for the Kansas region in December 2017!
 What does that mean? Access to more national organization resources for everyone interested in cyber security! 
 
