@@ -24,3 +24,7 @@ Brakedas has Lorem Ipsum Dolar
 **Membership Director - Eric Dexter (2017 - Current)**
 
 Eric Dexter is an active figure in the Wichita security community. Starting as a member of our local ISSA Chapter, he helped establish the local (ISC)² Chapter in 2017 and the launch of the [Wichita OZSec conference](https://ozsec.org) in 2018. His expertise spans a range of IT disciplines, with a special focus on cybersecurity. With a comprehensive IT background, Eric excels at communicating with diverse IT teams and providing expert security guidance at various technical levels. He maintains a strong commitment to staying current with the latest technological advancements, always seeking to expand his knowledge in this ever-evolving field.
+
+**Secretary - Will Eckels (2019 - Current)**
+
+Will Eckels was born and raised in western Kansas and has lived in Wichita for the past 10 years. He holds a bachelor’s degree from Kansas State University. Will has experience developing and managing IT and Cyber Security programs as well as general IT management. He works for the Federal Government as an IT Director and has served the ISC2 Wichita Chapter as Secretary since 2019.
