@@ -21,6 +21,8 @@ Brakedas has Lorem Ipsum Dolar
 
 ---
 
+**Treasurer - Marc Westbrock (2017 - Current)**
+
 Marc Westbrock is the Treasurer of the Wichita Chapter. He has been in the cybersecurity field since 2001, in a variety of roles but mostly on the strategic, architectural, and GRC aspects. His primary focus in recent roles is policies and procedures, standards, frameworks, end-user awareness, vendor risk assessments, and partnering with legal and compliance counterparts on holistic risk management and understanding regulatory compliance requirements. He currently works remotely for a non-profit organization, managing their Cybersecurity and Identity teams. In his spare time he enjoys woodworking and reading.
 
 ---
@@ -28,6 +30,8 @@ Marc Westbrock is the Treasurer of the Wichita Chapter. He has been in the cyber
 **Membership Director - Eric Dexter (2017 - Current)**
 
 Eric Dexter is an active figure in the Wichita security community. Starting as a member of our local ISSA Chapter, he helped establish the local (ISC)² Chapter in 2017 and the launch of the [Wichita OZSec conference](https://ozsec.org) in 2018. His expertise spans a range of IT disciplines, with a special focus on cybersecurity. With a comprehensive IT background, Eric excels at communicating with diverse IT teams and providing expert security guidance at various technical levels. He maintains a strong commitment to staying current with the latest technological advancements, always seeking to expand his knowledge in this ever-evolving field.
+
+---
 
 **Secretary - Will Eckels (2019 - Current)**
 
