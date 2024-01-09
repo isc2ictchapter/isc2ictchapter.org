@@ -17,7 +17,7 @@ Jarvis was born and raised in Wichita, KS. He holds a bachelor’s degree from W
 
 **Vice President - Brandon Leiker (2019 - Current)**
 
-Brakedas has Lorem Ipsum Dolar
+Brandon has 20 years of information technology and information security experience across multiple verticals including energy, financial services, medical, banking, and manufacturing. His background includes solution architecture, implementation, and administration, security operations and strategy, as well as governance, risk, and compliance. He holds a master’s degree in information assurance management and teaches courses for Fort Hays State University as an adjunct professor in their Cybersecurity and Information Assurance Management graduate programs.
 
 ---
 
