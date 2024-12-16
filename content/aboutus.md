@@ -43,7 +43,7 @@ Damian, a Wichita native, has a diverse career background that provided a broad 
 
 Will Eckels was born and raised in western Kansas and has lived in Wichita for the past 10 years. He holds a bachelor’s degree from Kansas State University. Will has experience developing and managing IT and Cyber Security programs as well as general IT management. He works for the Federal Government as an IT Director and has served the ISC2 Wichita Chapter as Secretary since 2019.
 
-***2025 Secretary - Oscar Armbuster (2025)***
+***2025 Secretary - Oscar Armbruster (2025)***
 
 With 20 years of service in the U.S. Air Force and a degree in Computer Science from Wichita State University, extensive leadership and technical expertise are brought to the cybersecurity field. Specializations include SIEM, SOAR, and threat detection, supported by a strong IT background in network security and incident response. Dedicated to advancing the cybersecurity community, the focus is on supporting (ISC)2's mission and driving innovation in the industry.
 
